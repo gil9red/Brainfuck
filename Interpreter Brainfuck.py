@@ -14,7 +14,7 @@ Character	Meaning
                 next command, jump it back to the command after the matching [ command.
 
 RU:
-Интерпрететаор языка Brainfuck.
+Интерпретатор языка Brainfuck.
 Команда Brainfuck   Описание команды
 Начало программы 	выделяется память под 30 000 ячеек
     > 	            перейти к следующей ячейке
